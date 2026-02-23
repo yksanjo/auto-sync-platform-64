@@ -1,5 +1,12 @@
 # auto-sync-platform-64
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/auto-sync-platform-64/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/auto-sync-platform-64/actions)
+![License](https://img.shields.io/github/license/yksanjo/auto-sync-platform-64)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/auto-sync-platform-64)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/auto-sync-platform-64)
+
 ## Detailed Description
 
 auto-sync-platform-64 is maintained as an industry-grade software project with production-ready engineering practices.  
